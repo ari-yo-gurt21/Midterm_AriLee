@@ -1,0 +1,39 @@
+[
+    {
+        "id": "p1",
+        "name": "Podz",
+        "description": "Brandin Podzimski, often called Podz is one of the Warriors rising young stars. He was drafted tto the team in 2023, he quickly became a fan favorite... well at least mine.being a smart, hard-working guard who plays with confidence and energy. Podziemski contributes with strong rebounding for his size, good court vision, and hustle on both ends of the floor. on top of that his pink and purple kicks are my favorite!" ,
+        "imageName": "Podz"
+    },
+    {
+        "id": "p2",
+        "name": "Curry",
+        "description": "Need I explain? He is the face of the Warriors and one of the most influential players in NBA history! He is known for his outstanding range, shooting 3s from all around the court. Curry has led the Warriors to multiple championships since being drafted in 2009. Beyond his stats, he brings leadership, composure, and a constant sense of belief that fuels the entire roster. His clutch up performances have made him not only a legend of the franchise but a symbol of modern basketball’s evolution.",
+        "imageName": "Curry"
+    },
+    {
+        "id": "p3",
+        "name": "Draymond",
+        "description": "Draymond Green serves as the Warriors emotional and defensive anchor. Drafted in 2012, he’s known for his ability to guard all five positions, facilitate offense as a point forward, and keep teammates accountable. His intensity and basketball IQ make him the glue that holds the Warriors system together. One of the few ogs left on the team now.",
+        "imageName": "Draymond"
+    },
+    {
+        "id": "p4",
+        "name": "Wiggins",
+        "description": "Andrew Wiggins joined the Warriors in 2020 and transformed his reputation from a high-scoring wing to a true two-way player. His athleticism, length, and defense were crucial to the team’s 2022 championship run. Wiggins guards top scorers, runs the floor in transition, and provides steady offense without forcing shots. Though he is no longer on the team he is a honorable mention (and my mom's favorite).",
+        "imageName": "Wigging"
+    },
+    {
+        "id": "p5",
+        "name": "Looney",
+        "description": "Kevon Looney has been one of the most consistent and dependable players for Golden State. Though his role rarely shows up in highlight reels, his rebounding, screening, and defensive awareness are vital to the Warriors’ success. Looney often guards bigger centers, boxes out for rebounds, and sets solid picks that free shooters like Curry and Klay. His unselfish play and professionalism make him a respected veteran presence in the locker room.",
+        "imageName": "Looney"
+    },
+    {
+        "id": "p6",
+        "name": "Klay",
+        "description": "Klay Thompson, the other half of the “Splash Brothers,” is one of the best pure shooters in NBA history. Drafted in 2011, he became famous for his ability to score in explosive bursts and for his calm, focused personality. After suffering two major injuries, Klay worked his way back to become a reliable contributor again. Sadly, he is also no longer on the team, which sucks because he was my favorite :(",
+        "imageName": "Klay"
+      
+    }
+]
